@@ -1,0 +1,29 @@
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.csproj.AssemblyReference.cache
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.AssemblyInfoInputs.cache
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.AssemblyInfo.cs
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.csproj.CoreCompileInputs.cache
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\bin\Debug\net6.0-windows\MovingObjectClient.exe
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\bin\Debug\net6.0-windows\MovingObjectClient.deps.json
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\bin\Debug\net6.0-windows\MovingObjectClient.runtimeconfig.json
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\bin\Debug\net6.0-windows\MovingObjectClient.dll
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\bin\Debug\net6.0-windows\MovingObjectClient.pdb
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.dll
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\obj\Debug\net6.0-windows\refint\MovingObjectClient.dll
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.pdb
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.genruntimeconfig.cache
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObjectClient\obj\Debug\net6.0-windows\ref\MovingObjectClient.dll
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\bin\Debug\net6.0-windows\MovingObjectClient.exe
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\bin\Debug\net6.0-windows\MovingObjectClient.deps.json
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\bin\Debug\net6.0-windows\MovingObjectClient.runtimeconfig.json
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\bin\Debug\net6.0-windows\MovingObjectClient.dll
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\bin\Debug\net6.0-windows\MovingObjectClient.pdb
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.AssemblyInfoInputs.cache
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.AssemblyInfo.cs
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.csproj.CoreCompileInputs.cache
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.dll
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\obj\Debug\net6.0-windows\refint\MovingObjectClient.dll
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.pdb
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\obj\Debug\net6.0-windows\MovingObjectClient.genruntimeconfig.cache
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObjectClient\obj\Debug\net6.0-windows\ref\MovingObjectClient.dll

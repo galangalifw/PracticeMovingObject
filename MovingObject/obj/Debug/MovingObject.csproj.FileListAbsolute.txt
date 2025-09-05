@@ -1,0 +1,2 @@
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.SuggestedBindingRedirects.cache

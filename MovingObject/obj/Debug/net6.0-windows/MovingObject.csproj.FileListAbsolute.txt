@@ -1,0 +1,56 @@
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\net6.0-windows\MovingObject.csproj.AssemblyReference.cache
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\net6.0-windows\MovingObject.Form1.resources
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\net6.0-windows\MovingObject.Properties.Resources.resources
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\net6.0-windows\MovingObject.csproj.GenerateResource.cache
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\net6.0-windows\MovingObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\net6.0-windows\MovingObject.AssemblyInfoInputs.cache
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\net6.0-windows\MovingObject.AssemblyInfo.cs
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\net6.0-windows\MovingObject.csproj.CoreCompileInputs.cache
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\bin\Debug\net6.0-windows\MovingObject.exe
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\bin\Debug\net6.0-windows\MovingObject.dll.config
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\bin\Debug\net6.0-windows\MovingObject.deps.json
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\bin\Debug\net6.0-windows\MovingObject.runtimeconfig.json
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\bin\Debug\net6.0-windows\MovingObject.dll
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\bin\Debug\net6.0-windows\MovingObject.pdb
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\net6.0-windows\MovingObject.dll
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\net6.0-windows\refint\MovingObject.dll
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\net6.0-windows\MovingObject.pdb
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\net6.0-windows\MovingObject.genruntimeconfig.cache
+C:\Users\Calvin Julianza\Downloads\Compressed\NetworkProgramming-master\MovingObject\obj\Debug\net6.0-windows\ref\MovingObject.dll
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\bin\Debug\net6.0-windows\MovingObject.exe
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\bin\Debug\net6.0-windows\MovingObject.dll.config
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\bin\Debug\net6.0-windows\MovingObject.deps.json
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\bin\Debug\net6.0-windows\MovingObject.runtimeconfig.json
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\bin\Debug\net6.0-windows\MovingObject.dll
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\bin\Debug\net6.0-windows\MovingObject.pdb
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\obj\Debug\net6.0-windows\MovingObject.Form1.resources
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\obj\Debug\net6.0-windows\MovingObject.Properties.Resources.resources
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\obj\Debug\net6.0-windows\MovingObject.csproj.GenerateResource.cache
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\obj\Debug\net6.0-windows\MovingObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\obj\Debug\net6.0-windows\MovingObject.AssemblyInfoInputs.cache
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\obj\Debug\net6.0-windows\MovingObject.AssemblyInfo.cs
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\obj\Debug\net6.0-windows\MovingObject.csproj.CoreCompileInputs.cache
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\obj\Debug\net6.0-windows\MovingObject.dll
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\obj\Debug\net6.0-windows\refint\MovingObject.dll
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\obj\Debug\net6.0-windows\MovingObject.pdb
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\obj\Debug\net6.0-windows\MovingObject.genruntimeconfig.cache
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\MovingObject\obj\Debug\net6.0-windows\ref\MovingObject.dll
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\bin\Debug\net6.0-windows\MovingObject.exe
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\bin\Debug\net6.0-windows\MovingObject.dll.config
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\bin\Debug\net6.0-windows\MovingObject.deps.json
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\bin\Debug\net6.0-windows\MovingObject.runtimeconfig.json
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\bin\Debug\net6.0-windows\MovingObject.dll
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\bin\Debug\net6.0-windows\MovingObject.pdb
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\obj\Debug\net6.0-windows\MovingObject.Form1.resources
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\obj\Debug\net6.0-windows\MovingObject.Properties.Resources.resources
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\obj\Debug\net6.0-windows\MovingObject.csproj.GenerateResource.cache
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\obj\Debug\net6.0-windows\MovingObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\obj\Debug\net6.0-windows\MovingObject.AssemblyInfoInputs.cache
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\obj\Debug\net6.0-windows\MovingObject.AssemblyInfo.cs
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\obj\Debug\net6.0-windows\MovingObject.csproj.CoreCompileInputs.cache
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\obj\Debug\net6.0-windows\MovingObject.sourcelink.json
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\obj\Debug\net6.0-windows\MovingObject.dll
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\obj\Debug\net6.0-windows\refint\MovingObject.dll
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\obj\Debug\net6.0-windows\MovingObject.pdb
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\obj\Debug\net6.0-windows\MovingObject.genruntimeconfig.cache
+C:\Users\GALANG\Documents\Downloads\Practice-Socket-Programming-main\PracticeMovingObject\MovingObject\obj\Debug\net6.0-windows\ref\MovingObject.dll
